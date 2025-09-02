@@ -1,6 +1,6 @@
 /*
   CP 4 - Edge Computing
-  
+
   Autores: 
   Enzo Ozzioli
   Thiago Nascimento 
@@ -20,7 +20,7 @@ unsigned long channelID = 3058696; // Channel ID do Channel
 const char* writeAPIKey = "W5M5CDKNR2LZY2SM"; // Write API do Channel
 
 #define DHTPIN 15 // Pino ultilizado no ESP32 para ler o DHT
-#define DHTTYPE DHT22 // Tipo de DHT ultilizado (no wokmi só possui o 22 porém ultilizamos o 11)
+#define DHTTYPE DHT11 // Tipo de DHT ultilizado (no wokmi só possui o 22 porém ultilizamos o 11)
 #define LDR_PIN 34 // Pino ultilizado no ESP32 para ler o LDR
 
 // Criação do DHT ultilizando o pino e o tipo definido
