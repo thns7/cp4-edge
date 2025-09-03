@@ -1,9 +1,8 @@
 # Participantes
-Enzo Ozzioli - RM 564812  
-Vinicius Herreira- RM 565662  
+Enzo Ozzioli - RM 564812
 Thiago Nascimento - RM 561967  
 Gustavo Rocha - RM 564152  
-Gabriel Santos - RM 562419
+
 
 ### Vídeo explicativo:  
 > 🔗 [Clique aqui para abrir vídeo explicativo](https://youtu.be/KoPVD1vNmvM)
