@@ -13,3 +13,5 @@ Gustavo Rocha - RM 564152
 (O código no Wokwi é usado o DHT22 pois o Wokwi não possui DHT11)
 (Para testar o simulador, apenas controle o sensor de umidade)  
 ![Circuito montado](https://i.ibb.co/Kxh5Jsmf/Captura-de-tela-2025-09-02-200626.png)
+![Circuito montado Hands-On](https://ibb.co/zhFVcTfF)
+
